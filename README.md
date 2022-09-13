@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **back-end development**
 
-- 📫 How to reach me **paul.malagoli@gamil.com**
+- 📫 How to reach me **paul.malagoli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
